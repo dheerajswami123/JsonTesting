@@ -1,0 +1,13 @@
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\obj\Debug\JsonSerialiseSample.Form1.resources
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\obj\Debug\JsonSerialiseSample.Properties.Resources.resources
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\obj\Debug\JsonSerialiseSample.csproj.GenerateResource.Cache
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\obj\Debug\JsonSerialiseSample.csproj.CoreCompileInputs.cache
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\bin\Debug\JsonSerialiseSample.exe.config
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\bin\Debug\JsonSerialiseSample.exe
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\bin\Debug\JsonSerialiseSample.pdb
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\bin\Debug\ServiceStack.Text.dll
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\bin\Debug\ServiceStack.Text.xml
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\obj\Debug\JsonSerialiseSample.exe
+D:\Projects\Experiment\JsonSerialiseSample\JsonSerialiseSample\obj\Debug\JsonSerialiseSample.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Experiment\JsonSerialiseSample\SerialiseLibrary\bin\Debug\netcoreapp1.1\SerialiseLibrary.deps.json
+D:\Projects\Experiment\JsonSerialiseSample\SerialiseLibrary\bin\Debug\netcoreapp1.1\SerialiseLibrary.dll
+D:\Projects\Experiment\JsonSerialiseSample\SerialiseLibrary\bin\Debug\netcoreapp1.1\SerialiseLibrary.pdb
+D:\Projects\Experiment\JsonSerialiseSample\SerialiseLibrary\obj\Debug\netcoreapp1.1\SerialiseLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Experiment\JsonSerialiseSample\SerialiseLibrary\obj\Debug\netcoreapp1.1\SerialiseLibrary.AssemblyInfo.cs
+D:\Projects\Experiment\JsonSerialiseSample\SerialiseLibrary\obj\Debug\netcoreapp1.1\SerialiseLibrary.dll
+D:\Projects\Experiment\JsonSerialiseSample\SerialiseLibrary\obj\Debug\netcoreapp1.1\SerialiseLibrary.pdb
